@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Reverse-engineering artifacts (large binaries / decompiled output)
+fau-parking-apk/
+analysis/
+
+# Misc
+.DS_Store
